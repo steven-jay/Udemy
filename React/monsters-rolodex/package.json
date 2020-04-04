@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://steven-jay.github.io/Udemy/React/monsters-rolodex",
+  "homepage": "https://steven-jay.github.io/Udemy",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.11.0",
